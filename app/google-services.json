@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1047324012342",
+    "firebase_url": "https://yztraders-8b0e1.firebaseio.com",
+    "project_id": "yztraders-8b0e1",
+    "storage_bucket": "yztraders-8b0e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047324012342:android:e94b87e5e74c36ac",
+        "android_client_info": {
+          "package_name": "droidudes.yousaf.zai.traders.pakistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047324012342-1a1d803e2t8qbphaud90icpni4aue5pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "droidudes.yousaf.zai.traders.pakistan",
+            "certificate_hash": "ecc0124cddb228a57dd97b497d07d7945a831af7"
+          }
+        },
+        {
+          "client_id": "1047324012342-2015sboe7576el07qgdftrba027vjln7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuU8QTptrXpHqzJ0LhtxlOjck03bFe6iE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047324012342-2015sboe7576el07qgdftrba027vjln7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
